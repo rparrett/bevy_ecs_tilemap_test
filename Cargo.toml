@@ -6,5 +6,5 @@ edition = "2021"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-bevy = { git = "https://github.com/bevyengine/bevy", rev = "38c7d5eb9e81ab8e1aec03673599b25a9aa0c69c", default-features = false }
-bevy_ecs_tilemap = { git = "https://github.com/StarArawn/bevy_ecs_tilemap.git", branch = "new-renderer" }
+bevy = { git = "https://github.com/bevyengine/bevy", rev = "1d0d8a3397bd6fc2c14d42ffd0668d2443748912" }
+bevy_ecs_tilemap = { git = "https://github.com/StarArawn/bevy_ecs_tilemap.git", rev = "a19c563f5bc44a21b20825a4f38c64c872a0eea0" }
